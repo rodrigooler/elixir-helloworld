@@ -1,18 +1,5 @@
 defmodule ElixirHelloworld do
-  @moduledoc """
-  Documentation for ElixirHelloworld.
-  """
-
-  @doc """
-  Hello world.
-
-  ## Examples
-
-      iex> ElixirHelloworld.hello
-      :world
-
-  """
-  def hello do
-    :world
+  def printHelloWorld do
+    "Hello World 2018"
   end
 end
